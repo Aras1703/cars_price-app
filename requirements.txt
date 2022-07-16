@@ -1,7 +1,6 @@
-python-3.7.3
 numpy
 pandas
 streamlit
 sklearn
-pickle
+pickle-mixin
 plotly
