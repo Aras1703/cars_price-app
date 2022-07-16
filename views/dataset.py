@@ -9,7 +9,7 @@ def app():
     sl.write("")
 
     sl.write("### **Dataset Test**")
-    df_test = pd.read_csv('Dataset/test-data.csv', sep=';')
+    df_test = pd.read_csv('dataset/test-data.csv', sep=';')
     sl.write(df_test)
 
     sl.write("")
